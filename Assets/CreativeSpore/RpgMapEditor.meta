@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 850ab679b1afbb84f98a1159db54c662
+labels:
+- rpg
+- tileset
+- map
+- editor
+- autotileset
+- tilemap
+- vehicles
+- pathfinding
+- creativespore
+- creative
+- spore
+- Fog
+- war
+- FogOfWar
+folderAsset: yes
+timeCreated: 1438359391
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
